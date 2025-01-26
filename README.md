@@ -11,5 +11,7 @@ If no matches are found, it displays: "This seems legitimate."
 
 ### Libraries used
 **fuzzywuzzy**: The fuzzywuzzy library is used for string matching and similarity measurement.
+<br>
 **json**: The json module is part of Python’s standard library and is used for reading and writing data in JSON format.
+<br>
 **difflib**: The difflib module, part of Python’s standard library, is used for comparing sequences.
